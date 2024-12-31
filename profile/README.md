@@ -4,6 +4,8 @@ Welcome to **SlimShadow**, modern web applications and projects! 🎉
 
 ## 🚀 About Us
 SlimShadow is a collaborative organization where we craft, build, and share web applications using some of the most exciting frameworks and tools out there. From lightning-fast apps with Vite to scalable React TypeScript projects, this is where code comes to life. Whether you're here to explore, contribute, or learn, you're in for a treat!
+## 🌐 SlimShadow Portfolio
+Explore our Modern Portfolio Website: [https://portfolio-slimshadow.pages.dev/](https://portfolio-slimshadow.pages.dev/)
 
 ## 📂 What You'll Find Here
 Our organization showcases a variety of projects built with:  
@@ -45,4 +47,5 @@ Let’s build something amazing together! Feel free to:
 ---
 
 Welcome aboard and happy coding! 😊  
-~ founder Sameer Banchhor
+founder 
+# Sameer Banchhor
